@@ -227,19 +227,6 @@ Simulation top:   tb_vedic16x16
 
 ---
 
-## 👥 Team
-
-| Name | Roll No. |
-|------|----------|
-| Jonnalagadda Varshitha | 18B91A0477 |
-| Kurella Viswa Pavan Manikanta | 18B91A04B5 |
-| Maddala Sai Sarat Jotsna | 18B91A04C1 |
-| Kalidindi Sai Charan | 18B91A0484 |
-
-**Guide:** Sri. V. Rama Krishna, M.Tech — Asst. Professor, Dept. of ECE  
-**Institution:** S.R.K.R. Engineering College (Autonomous), Bhimavaram
-
----
 
 ## 📄 License
 
